@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 //githubver2
 
-Watch the magic
+=======
+//gitbubbabub
 
+Hello there, General Kenobi
+>>>>>>> dev
 
